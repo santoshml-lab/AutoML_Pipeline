@@ -1,4 +1,4 @@
-
+![Feature Importance](resume.png)
 AutoML Pipeline
 Automated machine learning pipeline for regression and classification tasks. It performs end-to-end processing, from data cleaning to model evaluation, and provides clear insights into feature importance.
 Features
